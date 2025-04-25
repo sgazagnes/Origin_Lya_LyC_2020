@@ -59,7 +59,7 @@ This is an overview of the main figures in the paper, which are reproducible wit
 
       <div style="display: flex; justify-content: space-between;">
           <img src="Images/ewvwidth.png" width="40%" />
-          <img src="Images/ewcfvwidth.png" width="45%" />
+          <img src="Images/ewcfvwidth.png" width="50%" />
       </div>
 
 

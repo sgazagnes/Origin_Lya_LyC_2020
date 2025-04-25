@@ -50,7 +50,7 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/Lya_example.png" width="90%" />
+          <img src="Images/Lya_example.png" width="50%" />
       </div>
 
 3.  Lyα equivalent width correlations:
@@ -58,8 +58,8 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/ewvwidth.png" width="24%" />
-          <img src="Images/ewcfvwidth.png" width="24%" />
+          <img src="Images/ewvwidth.png" width="40%" />
+          <img src="Images/ewcfvwidth.png" width="45%" />
       </div>
 
 
@@ -68,10 +68,10 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/vsepvwidth.png" width="24%" />
-          <img src="Images/vsepcf.png" width="24%" />
-          <img src="Images/vredcf.png" width="24%" />
-          <img src="Images/bluecf.png" width="24%" />
+          <img src="Images/vsepvwidth.png" width="45%" />
+          <img src="Images/vsepcf.png" width="40%" />
+          <img src="Images/vredcf.png" width="40%" />
+          <img src="Images/vbluecf.png" width="40%" />
       </div>
 
 
@@ -80,10 +80,10 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/fesclycfmin.png" width="24%" />
-          <img src="Images/fesclycebvlog.png" width="24%" />
-          <img src="Images/fesclyaebvlog.png" width="24%" />
-          <img src="Images/fesclyacf.png" width="24%" />
+          <img src="Images/fesclycfmin.png" width="37%" />
+          <img src="Images/fesclycebvlog.png" width="40%" />
+          <img src="Images/fesclyaebvlog.png" width="40%" />
+          <img src="Images/fesclyacf.png" width="37%" />
       </div>
 
 6. Summary figures

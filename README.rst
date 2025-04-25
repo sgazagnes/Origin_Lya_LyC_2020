@@ -59,7 +59,7 @@ This is an overview of the main figures in the paper, which are reproducible wit
 
       <div style="display: flex; justify-content: space-between;">
           <img src="Images/ewvwidth.png" width="40%" />
-          <img src="Images/ewcfvwidth.png" width="50%" />
+          <img src="Images/ewcfvwidth.png" width="48%" />
       </div>
 
 
@@ -68,7 +68,7 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/vsepvwidth.png" width="45%" />
+          <img src="Images/vsepvwidth.png" width="43%" />
           <img src="Images/vsepcf.png" width="40%" />
           <img src="Images/vredcf.png" width="40%" />
           <img src="Images/vbluecf.png" width="40%" />
@@ -80,13 +80,13 @@ This is an overview of the main figures in the paper, which are reproducible wit
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Images/fesclycfmin.png" width="37%" />
           <img src="Images/fesclycebvlog.png" width="40%" />
           <img src="Images/fesclyaebvlog.png" width="40%" />
+          <img src="Images/fesclycfmin.png" width="37%" />
           <img src="Images/fesclyacf.png" width="37%" />
       </div>
 
-6. Summary figures
+6. Summary sketch
 
    .. raw:: html
 
@@ -103,9 +103,3 @@ If you use this code or data, please cite:
 Gazagnes et al. (2020), *Astronomy & Astrophysics*, 639, A85  
 https://doi.org/10.1051/0004-6361/202038096
 
-
-
-Author
-------
-
-- Simon Gazagnes <sgsgazagnes@gmail.com>

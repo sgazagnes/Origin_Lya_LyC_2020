@@ -30,6 +30,7 @@ Contents
 - `Notebooks/` — Jupyter notebooks for making the final figures
 - `Images/` — Figures from the paper (see examples below)
 - `CodeFittingIDL/` — IDL code used to perform the non-linear least square fitting.
+- `Measurements/` —  The csv file recording all data measurements.
 
 Result figures:
 ---------------
